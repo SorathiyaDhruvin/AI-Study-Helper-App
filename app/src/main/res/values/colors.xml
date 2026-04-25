@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FF4F46E5</color>
+    <color name="primary_dark">#FF3730A3</color>
+    <color name="primary_light">#FF818CF8</color>
+    <color name="primary_surface">#FFF0EFFF</color>
+
+    <!-- Accent / Green -->
+    <color name="accent">#FF22C55E</color>
+    <color name="accent_dark">#FF16A34A</color>
+    <color name="accent_light">#FF86EFAC</color>
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="background_light">#FFF8F9FC</color>
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="card_light">#FFFFFFFF</color>
+
+    <!-- Dark Theme -->
+    <color name="background_dark">#FF0F172A</color>
+    <color name="surface_dark">#FF1E293B</color>
+    <color name="card_dark">#FF1E293B</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary_light">#FF1E293B</color>
+    <color name="text_secondary_light">#FF64748B</color>
+    <color name="text_tertiary_light">#FF94A3B8</color>
+    <color name="text_primary_dark">#FFF1F5F9</color>
+    <color name="text_secondary_dark">#FF94A3B8</color>
+    <color name="text_tertiary_dark">#FF64748B</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF4F46E5</color>
+    <color name="gradient_end">#FF7C3AED</color>
+
+    <!-- Status Colors -->
+    <color name="success">#FF22C55E</color>
+    <color name="warning">#FFFBBF24</color>
+    <color name="error">#FFEF4444</color>
+    <color name="info">#FF3B82F6</color>
+
+    <!-- Overlay -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#40000000</color>
+    <color name="scan_line">#FF22C55E</color>
+    <color name="scan_frame">#FFFFFFFF</color>
+
+    <!-- Divider -->
+    <color name="divider_light">#FFE2E8F0</color>
+    <color name="divider_dark">#FF334155</color>
+
+    <!-- Bottom Nav -->
+    <color name="bottom_nav_light">#FFFFFFFF</color>
+    <color name="bottom_nav_dark">#FF1E293B</color>
+
+    <!-- Ad Banner -->
+    <color name="ad_banner_bg_light">#FFF1F5F9</color>
+    <color name="ad_banner_bg_dark">#FF1E293B</color>
+
+    <!-- Ripple -->
+    <color name="ripple_light">#204F46E5</color>
+    <color name="ripple_dark">#40818CF8</color>
+</resources>
+
